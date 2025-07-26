@@ -10,10 +10,11 @@ This project is a responsive Weather Dashboard web application built with React.
 	•	🔄 Uses React state and hooks for dynamic data rendering
 
 🔗 Tech Stack
-	•	React.js – Functional components, hooks (useState, useEffect)
-	•	OpenWeatherMap API – For fetching live weather data
-	•	Axios – For HTTP requests
-	•	CSS – For basic styling and layout
+	•	⚛️ React.js – Functional components with hooks like useState and useEffect
+	•	📘 TypeScript – Adds type safety and improves code reliability in React components
+	•	☁️ OpenWeatherMap API – For fetching real-time weather data by city
+	•	📡 Axios – Simplifies HTTP requests and API interactions
+	•	🎨 Tailwind CSS – Utility-first framework for clean, responsive UI styling
 
 ⚠️ API Key Notice
 
